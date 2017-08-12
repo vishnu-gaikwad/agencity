@@ -1,0 +1,1 @@
+http://localhost/agencity/api/search_property_details.php?buy_or_rent=Buy&city=Pune&isnew=Yes&type_of_property=App&pfrom=15000&pto=30000&sfrom=1000&sto=3000&no_of_rooms=4&no_of_bedrooms=2&estate=Digicode&particularites=Terrasse&pieces=wc&stationnment=Parking&aproximite=tr

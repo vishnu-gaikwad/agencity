@@ -1,0 +1,1 @@
+localhost/dwn/agencity/api/search_property.php?apply_other=1&buy_or_rent=Buy&city=&isnew=Yes&type_of_property=App&pfrom=15000&pto=30000&sfrom=1000&sto=3000&no_of_rooms=4&no_of_bedrooms=2&estate=Digicode&particularites=Terrasse&pieces=wc&stationnment=Parking&aproximite=tr
